@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in programming ..
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on moderate pythin projects
+- 💞️ I’m looking to collaborate on moderate python projects
 - 📫 you can contact me by mailto:prabalkuamar207244@gmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: Alway interested in coding
