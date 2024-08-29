@@ -1,14 +1,14 @@
 ### Hi 👋, I am Prabal kumar mishra
 
 
-🔭 I’ve completed b. tech in GEC bharatpur
-🌱 I’m currently learning Related topics to AI and ML
-👯 I’m looking to collaborate on Python development and ML development projects
-🤔 I’m looking for help with in backend development
-💬 Ask me about web python developer and data Analytics
-📫 You can contact me by mail to:- Prabalkumar2072@icloud.com
+🔭 I’ve completed b. tech in GEC bharatpur.
+🌱 I’m currently learning Related topics to AI and ML.
+👯 I’m looking to collaborate on Python development and ML development projects.
+🤔 I’m looking for help with in backend development.
+💬 Ask me about web python developer and data Analytics.
+📫 You can contact me by mail to:- Prabalkumar2072@icloud.com.
 😄 Pronouns: he
-⚡ Fun fact: problem solver of whole batch
+⚡ Fun fact: problem solver of whole batch.
  
 
 
