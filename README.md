@@ -1,14 +1,15 @@
 ### Hi 👋, I am Prabal kumar mishra
 
 
-- 👀 I’m interested in programming ..
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on moderate python projects
-- 📫 you can contact me by mailto:prabalkuamar207244@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: Alway interested in coding
-
-#### Pursuing B. tech in Computer sciecne from gec bharatpur
+🔭 I’ve completed b. tech in GEC bharatpur
+🌱 I’m currently learning Related topics to AI and ML
+👯 I’m looking to collaborate on Python development and ML development projects
+🤔 I’m looking for help with in backend development
+💬 Ask me about web python developer and data Analytics
+📫 You can contact me by mail to:- Prabalkumar2072@icloud.com
+😄 Pronouns: he
+⚡ Fun fact: problem solver of whole batch
+ 
 
 
 <!---
